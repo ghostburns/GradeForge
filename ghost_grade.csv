@@ -1,0 +1,2 @@
+student_id,student_name,student_type,subject_code,subject_name,grade_description,grade_score,subject_average,overall_average,pass_fail_status
+ETS0000/15,Ghost,CollegeStudent,0,Python,Semster,70.00,70.00,70.00,Pass

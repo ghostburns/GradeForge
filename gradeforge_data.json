@@ -1,0 +1,28 @@
+{
+    "students": {
+        "ETS0000/15": {
+            "name": "Ghost",
+            "student_id": "ETS0000/15",
+            "type": "CollegeStudent",
+            "enrolled_subjects": {
+                "0": {
+                    "name": "Python",
+                    "code": "0",
+                    "grades": [
+                        {
+                            "description": "Semster",
+                            "score": 70.0
+                        }
+                    ]
+                }
+            },
+            "major": "Engineering"
+        }
+    },
+    "available_subjects": {
+        "0": {
+            "name": "Python",
+            "code": "0"
+        }
+    }
+}

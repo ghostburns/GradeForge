@@ -430,4 +430,4 @@ Implemented via methods in the `GradeForge` class.
 
 ---
 
-*This documentation has been updated based on an analysis of the provided Python files: `student.py`, `subject.py`, `grade.py`, and `gradeforge.py`.* 
+*This documentation is maintained by the GradeForge development team. For support or inquiries, please contact the system administrator.* 

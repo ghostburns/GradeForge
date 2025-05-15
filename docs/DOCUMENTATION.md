@@ -30,6 +30,7 @@ Version 1.0
     - [System Requirements](#system-requirements)
     - [Error Handling \& Validation](#error-handling--validation)
     - [Logging](#logging)
+  - [References](#references)
   - [Appendix](#appendix)
     - [Key Data Files and Constants](#key-data-files-and-constants)
     - [Example Workflow (CLI Interaction)](#example-workflow-cli-interaction)
@@ -397,6 +398,13 @@ Implemented via methods in the `GradeForge` class.
 
 ### Logging
 -   The application uses `print()` statements for direct user feedback, warnings, and error messages rather than Python's `logging` module for structured, leveled logging or persistent log files.
+
+## References
+
+-   Martin, Robert C. "SOLID: Principles of Object Oriented Design." *Uncle Bob's Blog*, 2009. Available at [https://web.archive.org/web/20220310174829/https://blog.cleancoder.com/uncle-bob/2020/10/18/SOLID-Service-Locator.html](https://web.archive.org/web/20220310174829/https://blog.cleancoder.com/uncle-bob/2020/10/18/SOLID-Service-Locator.html) (Note: This is a common starting point; full definitions are often spread across various articles and talks).
+-   Python Software Foundation. "The Python Tutorial." *Python Documentation*. Available at [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/).
+-   ECMA International. "ECMA-404: The JSON Data Interchange Format." *ECMA Standards*. Available at [https://www.ecma-international.org/publications-and-standards/standards/ecma-404/](https://www.ecma-international.org/publications-and-standards/standards/ecma-404/).
+-   Gamma, Erich, et al. *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley, 1994.
 
 ## Appendix
 

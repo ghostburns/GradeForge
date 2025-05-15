@@ -8,10 +8,12 @@
                 "0": {
                     "name": "Python",
                     "code": "0",
+                    "credit_hours": 3,
                     "grades": [
                         {
                             "description": "Semster",
-                            "score": 70.0
+                            "score": 70.0,
+                            "letter_grade": null
                         }
                     ]
                 }
@@ -22,7 +24,8 @@
     "available_subjects": {
         "0": {
             "name": "Python",
-            "code": "0"
+            "code": "0",
+            "credit_hours": 3
         }
     }
 }
